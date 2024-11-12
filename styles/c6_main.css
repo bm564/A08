@@ -92,14 +92,15 @@ article .speaker-img {
 }
 
 /* Aside styles */
-aside h3 {
-    font-size: 105%;
-    padding-bottom: .25em;
+aside .speaker {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5em;
 }
 .aside-img {
-    width: 100%;
+    width: 75px;
     height: auto;
-    margin-bottom: 1.5em;
+    margin-right: 10px;
     border-radius: 8px;
 }
 
