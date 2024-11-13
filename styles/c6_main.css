@@ -49,9 +49,9 @@ header img {
 
 /* the styles for the main content */
 main {
-	width: 525px;
-	float: right; 
-	padding: 0 30px;
+	width: 525px; 
+	float: left;
+	padding: 0 15px;
 }
 main h1 {
 	font-size: 150%;
@@ -101,7 +101,7 @@ article h3 {
 
 /* the styles for the aside */
 aside {
-	width: 215px; 
+	width: 215px;
 	float: right; 
 	padding: 0 15px;
 }
